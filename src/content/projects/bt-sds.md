@@ -6,12 +6,49 @@ heroImage: "/bt-sds-venn.png"
 area: "BeyondTrust"
 ---
 
-3 facets of the design system: The guidelines, a styles package for developers, and an icons package to single source product icons across the product portfolio.
+### Opportunity
 
-Team comprised of 3 developers, a QA, a UX writer, and a UI designer.
+The UX Architecture team was set up to be the center of excellence for BeyondTrust's product design. Previous design efforts were siloed and without long term planning which resulted in more defects and longer time to delivery for both engineering and UX.
 
-Guidelines help designers and developers understand the when and why of components, complete with live examples showcasing functionality.
+### Goals
 
-Styles: allowed for quick onboarding of the design system. Boiled down to "add the npm package to your app, and you're ready to go"
+- Centralize UI development efforts into one UI framework
+- Create a single source of truth for design assets and guidance
+- Streamline the design process through a simple contribution model
+- Create a common design language for all stakeholders
+- Create a design system road map for stakeholders
 
-Icons: single-sourced all icons within BeyondTrust products in an easy-to-use, easy-to-update npm package
+### Users
+
+- Designers
+- Researchers
+- Product Managers
+- Engineers
+
+### Business Impact
+
+The business impact of this vision would increase developer throughput and satisfaction with the new design system, reduce the amount of production defects, and decrease designer turn around.
+At the scale of 400+ engineers, and a UX team of nearly 30, the business benefits were plentiful.
+
+### Metrics
+
+- CSAT
+- Number of Production Defects
+- Turnaround Time for Deliverables
+
+### Deliverables
+
+There are several facets to the design system:
+
+- Guidelines for how product copy and user behavior should be designed
+- An NPM package of styles for developers so core styles and UI elements were single sourced
+- An NPM package of SVG icons that span the product portfolio.
+- Figma components for designers to use in lieu of
+
+The guidelines helped designers and developers understand the "when" and "why" of components, complete with live examples showcasing functionality.
+
+The styles package allowed for quick onboarding of the design system into engineering projects. Boiled down to "add the npm package to your app, and you're ready to go"
+
+We single-sourced all icons within BeyondTrust products to alleviate hunting for icons.
+
+The Figma process allowed our designers to quick scaffold new designs based on their product parameters and contribute new ideas and components.
