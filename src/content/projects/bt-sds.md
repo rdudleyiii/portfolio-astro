@@ -32,11 +32,11 @@ At the scale of 400+ engineers, and a UX team of nearly 30, the business benefit
 
 ### Metrics
 
-- CSAT
+- Satisfaction from Engineering, Product, and UX
 - Number of Production Defects
 - Turnaround Time for Deliverables
 
-### Deliverables
+### Deliverables and Key Activities
 
 There are several facets to the design system:
 
@@ -52,3 +52,5 @@ The styles package allowed for quick onboarding of the design system into engine
 We single-sourced all icons within BeyondTrust products to alleviate hunting for icons.
 
 The Figma process allowed our designers to quick scaffold new designs based on their product parameters and contribute new ideas and components.
+
+Much of this information was gathered through interviews and information architecture testing with stakeholders, as well as prototyping design system use cases for usability testing.
