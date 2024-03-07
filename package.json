@@ -7,9 +7,10 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build && npm run copy",
     "preview": "astro preview",
     "astro": "astro",
+    "copy": "cp _redirects  dist",
     "format:check": "prettier ./ --check",
     "format:fix": "prettier ./ --write"
   },
