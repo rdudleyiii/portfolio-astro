@@ -1,0 +1,38 @@
+---
+const { sideBarActiveItemID } = Astro.props;
+const activeClass = "bg-base-300"; // For primary color replace with `active` class
+---
+
+<ul class="menu grow shrink menu-md overflow-y-auto">
+  <li><a class="py-3 text-base" id="home" href="/">Home</a></li>
+  <li><a class="py-3 text-base" id="resume" href="/resume">Resume</a></li>
+  <li><a class="py-3 text-base" id="projects" href="/projects">Projects</a></li>
+  <li>
+    <a
+      class="py-3 text-base"
+      href="mailto:dudley9@gmail.com"
+      target="_blank"
+      referrerpolicy="no-referrer-when-downgrade">Contact</a
+    >
+  </li>
+</ul>
+
+<a href="https://www.nngroup.com/ux-certification/verify/">
+  <img
+    src="https://media.nngroup.com/nng-uxc-master-badge.png"
+    width="200"
+    height="174"
+    style="margin: 0 auto;"
+    alt="UX Master Certification Badge from Nielsen Norman Group"
+  /></a
+>
+
+<script
+  define:vars={{
+    sideBarActiveItemID: sideBarActiveItemID,
+    activeClass: activeClass,
+  }}
+>
+  const activeItemElem = document.getElementById(sideBarActiveItemID);
+  activeItemElem && activeItemElem.classList.add(activeClass);
+</script>
