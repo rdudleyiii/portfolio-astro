@@ -6,16 +6,35 @@ heroImage: "/PS-Accounts1.jpg"
 area: "BeyondTrust"
 ---
 
-The Password Safe project presented several opportunities for significant UX involvement. As it was in need of usability improvements and redesign, the work for this area of the product was substantial.
+Note: The image above represented the "current state" of which we evaluated for improvements.
 
-The image above shows the "current state" which was tested with users to uncover pain points.
+### Opportunity
 
-### UX Process:
+The Password Safe project presented several opportunities for significant UX involvement. As it was in need of usability and accessibility improvements, the redesign work for this area of the product was substantial.
 
-- Conducted an initial usability heuristic evaluation to identify the "low-hanging fruit."
-- Interviewed several customers to uncover pain points with the current experience.
-- Wireframed concepts for the revamped interface
-- Validated technical feasibility with the product manager and developers before moving to high-fidelity designs.
-- Created a clickable prototype (Sketch) with the high-fidelity designs
-- Tested the prototype with customers to gauge improvement (major win to have developers participate as viewers during the research sessions!)
-- Planned the implementation of the improvements with the Product Manger and Product Owner
+### Goals
+
+- Achieve a better understanding of the pain points of the current experience
+- Redesign the workflow and interface with greater insights and better technologies
+
+### Users
+
+- Password Safe customers and prospects
+- Product Managers
+- Engineering
+
+### Business Impact
+
+Sales for this product were lagging behind others, so reworking this pillar product to better fit the BeyondTrust style was seen to drive better sales opportunities with a more consistent and usable experience.
+
+### Metrics
+
+Validation of "mission critical" workflows through user testing (moderated and unmoderated)
+
+### Deliverables and Key Activities
+
+- To kick off our design research, I performed a heuristic review to identify potential "low-hanging fruit" which could be prioritized on the road map sooner than later.
+- With the output from the heuristic evaluation, we had a good sense of the scale of our overhaul. We interviewed existing customers about the experience with the product to uncover anecdotal pain points.
+- Wireframes of high-level user flow changes were created to validate concepts with Product and their long term aspirations for the product.
+- A clickable prototype (Sketch x Craft x Invision) was used to test these workflow and interface upgrades with existing customers and prospects. A major win at this stage was getting engineers involved as observers in the "to-be" session.
+- Worked with Product and Engineering to break down the scope of changes into deliverables for sprint planning
