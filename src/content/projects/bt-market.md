@@ -2,7 +2,7 @@
 title: "BeyondTrust Marketing Redesign"
 description: "Work related to technology improvements supporting the Marketing business function"
 pubDate: "2018"
-heroImage: "bt-market-hero.jpg"
+heroImage: "/bt-market-hero.jpg"
 area: "BeyondTrust"
 ---
 
