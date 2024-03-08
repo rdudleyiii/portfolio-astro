@@ -1,8 +1,8 @@
 ---
-title: "Bomgar -> BeyondTrust"
+title: "BeyondTrust Marketing Redesign"
 description: "Work related to technology improvements supporting the Marketing business function"
 pubDate: "2018"
-heroImage: "bt-market.jpg"
+heroImage: "bt-market-hero.jpg"
 area: "BeyondTrust"
 ---
 
@@ -30,4 +30,7 @@ As a growing "late stage" start up, continuing our trajectory with increasing Ma
 
 ### Deliverables and Key Activities
 
-- Coordinated A/B studies by developing designs and code to publish on the site
+- Coordinated A/B studies by developing designs and code to publish
+- Designed and implemented page redesigns across all areas of the site
+
+![Footer Redesign Comparison](/bt-market-footer-redesign.jpg)
