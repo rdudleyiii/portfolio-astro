@@ -6,7 +6,7 @@ heroImage: "/PS-Accounts1.jpg"
 area: "BeyondTrust"
 ---
 
-Note: The image above represented the "current state" of which we evaluated for improvements.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="960" height="580" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FKzhKoqyPqXHvVmexkSHrvO%2FCase-Studies%3Fpage-id%3D9%253A138%26node-id%3D9-416%26viewport%3D529%252C348%252C0.03%26t%3D20LVGUDKDHgaj1eL-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D9%253A416" allowfullscreen></iframe>
 
 ### Opportunity
 

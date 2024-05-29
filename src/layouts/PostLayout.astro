@@ -6,7 +6,7 @@ import localizedFormat from "dayjs/plugin/localizedFormat";
 
 export interface Props extends BlogSchema {}
 
-const { title, description, pubDate, updatedDate, heroImage, badge } =
+const { title, description, pubDate, updatedDate, heroImage, badge, area } =
   Astro.props;
 dayjs.extend(localizedFormat);
 const displayDate = dayjs(pubDate).add(1, "y").format("YYYY");
@@ -17,7 +17,7 @@ import { Image } from "@astrojs/image/components";
   <main class="md:flex md:justify-center">
     <article class="prose prose-lg max-w-[1000px] prose-img:mx-auto">
       {
-        heroImage && (
+        heroImage && title != "Password Safe" && (
           <Image
             width={1000}
             height={600}
