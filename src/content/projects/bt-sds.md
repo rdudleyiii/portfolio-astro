@@ -47,6 +47,8 @@ There are several facets to the design system:
 - An NPM package of SVG icons that span the product portfolio.
 - Figma components for designers to use in lieu of
 
+![screenshot of design system](/ds-content.png "Design System Docs")
+
 The guidelines helped designers and developers understand the "when" and "why" of components, complete with live examples showcasing functionality.
 
 The styles package allowed for quick onboarding of the design system into engineering projects. Boiled down to "add the npm package to your app, and you're ready to go"
