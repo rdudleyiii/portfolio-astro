@@ -32,5 +32,5 @@ It was a goal for several years after consolidating 4 companies with different p
 
 ### Deliverables and Key Activities
 
-- Work withing engineering team to augment their sprint capacity to deliver
+- Work within engineering team to augment their sprint capacity to deliver
 - Identify high priority needs from the new product to incorporate in the design system launch
